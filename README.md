@@ -17,7 +17,9 @@ Little known properties of macro sysindex mlogicnest mprintnest
           2 mlogicnest display the nesting of macros
             by Ksharp profile
             https://communities.sas.com/t5/user/viewprofilepage/user-id/18408
-
+    github              
+    https://tinyurl.com/3y8863sd                                                                                    
+    https://github.com/rogerjdeangelis/utl-little-known-properties-of-macro-sysindex-mlogicnest-mprintnest/tree/main
     /*               _     _
      _ __  _ __ ___ | |__ | | ___ _ __ ___
     | `_ \| `__/ _ \| `_ \| |/ _ \ `_ ` _ \
